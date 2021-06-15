@@ -1,9 +1,10 @@
 # object-on-matrix
 
-Programmet simulerar ett punktformat object som rör sig på ett bord. Programmet tar som input olika kommandon för att vrida eller förflytta objektet. Syftet med uppgiften var att använda sig av objektorienterad design för att ge applikationen en bra struktur som är lätt att vidareutveckla.
+The program simulates a point shaped object moving on a table. It takes as input different commands to turn or move the object. The purpose of the task was to use object-oriented
+design to give the program a good structure that is easy to extend.
 
-**Instruktioner för att köra**
+**Run instructions**
 
-Kör main i CommandInvoker. Mata sedan in bordets storlek, objektets startposition och kommandon med mellanrum i terminalen.
+Use the terminal to run main in CommandInvoker, then input the tables size, the objects starting position, and the commands separated by spaces in the terminal.
 
-Exempel med ett bord med bredd och höjd 4, startposition [1, 1] och kommandona 2, 3 och 0: 4 4 1 1 2 3 0
+Example using a table with width and height 4, starting position (1, 1) and the commands 2, 3 och 0: 4 4 1 1 2 3 0
